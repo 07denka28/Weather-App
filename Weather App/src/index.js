@@ -21,7 +21,7 @@ function formatDate(date) {
     "Wednesday",
     "Thursday",
     "Friday",
-    "Saturday"
+    "Saturn"
   ];
   let day = days[dayIndex];
 
